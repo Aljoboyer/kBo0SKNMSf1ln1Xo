@@ -1,0 +1,31 @@
+.p-text{
+    color: #64ffda;
+}
+.ptitle{
+    color: #cacaca;
+}
+.pcol{
+    border-bottom: #64ffda solid 2px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.icons{
+    color:#64ffda;
+    font-weight:bolder;
+    font-size: 40px;
+}
+.anchorbtn{
+    background-color: #64ffda;
+    font-size: 15px;
+    padding: 5px;
+    color: black;
+    border: none;
+    outline: none;
+}
+.anchorbtn:hover{
+    background-color: #64ffda;
+    font-size: 15px;
+    padding: 5px;
+    color: black;
+    border: none;
+    outline: none;
+}
